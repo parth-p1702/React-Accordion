@@ -11,3 +11,6 @@ It’s useful for presenting FAQs, lists, or sections of information where the u
 2.Requires experienced developers and managers 
 3.not suitable for smal project 
 4.Difficult to estimate time and bugget early on 
+sofwtare dveloperment process are communication, modeling, planing, constuction, deployment.
+these are setps what's how to build software .
+each phase take time but software made with full functionally as well as scalable.
