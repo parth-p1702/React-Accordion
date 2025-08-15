@@ -7,10 +7,6 @@ Clone of front end Airbnb web app with react.js.
 - React.JS
 - Material UI
 
-## Deployment
-
-- Netlify
-
 ## Screenshots
 
 ![demo1](./public/img/demo-1.png)
